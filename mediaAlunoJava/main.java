@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// by Bernardo e GabrielSavio
 public class main {
     public static void main(String[] args) {
         recebenotas inserir = new recebenotas();
